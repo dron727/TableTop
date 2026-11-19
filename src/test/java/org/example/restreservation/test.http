@@ -1,0 +1,7 @@
+POST http://localhost:8080/api/tabledb/add
+Content-Type: application/json
+
+{
+  "number" : "34",
+  "capacity" : "4"
+}
